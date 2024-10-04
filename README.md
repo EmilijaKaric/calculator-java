@@ -1,5 +1,6 @@
-LOC za sve fajlove zbirno 188 (Calculator.java) + 26 (Start.java) = 214
-LOC=214
+_LOC za sve fajlove zbirno 188 (Calculator.java) + 26 (Start.java) = 214_
+
+**LOC=214**
 
 
 **Staticka analiza (SonatLint)**
