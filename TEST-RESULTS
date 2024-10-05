@@ -1,1 +1,10 @@
-Sistemsko testiranje po metodi crne kutije (black box
+Sistemsko testiranje po metodi crne kutije (black box)
+
+Calculator podrzava samo osnovne operacije +, -, * i /, kada se doda % kako bi se izracunao procenat nekog broja izbacuje ERROR.
+
+Ne podrzava koriscenje zagrada sto znaci da racuna samo osnovne izraze.
+
+Kada posle operacije * ili / zelite da pomnozite ili podelite sa negativnim brojem izbacije error.
+
+Takodje kada posle operacije * ili / zelite da pomnozite ili podelite sa negativnim brojem ne moze da se stavi zagrada sto samim tim iskljucuje svaku mogucnost mnozenja ili deljenja sa negativnim brojem, jedini slucaj je kada je negativan br na prvom mestu sto znaci da ne postoji mogucnost da oba broja budu negativni.
+
