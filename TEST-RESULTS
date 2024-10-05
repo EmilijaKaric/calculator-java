@@ -17,3 +17,7 @@ Trebalo bi da se definise na koliko decimala zaokruzuje.
 
 Kada se otkucaju dva broja jednaka broja i izmedju njih stavi =, tipa 9=9 izbacuje ERROR. Bilo bi dobro da izbacuje True a 
 za tvrdnje koje nisu jednake da izbacuje Fals.
+
+Kada se unese broj pa posle njega operacija i ne upise se drugi broj calculator izbacuje samo taj prvi broj, bilo bi dobro 
+da ima opcija da trazi i drugi broj da se unese.
+
