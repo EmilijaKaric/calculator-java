@@ -6,5 +6,14 @@ Ne podrzava koriscenje zagrada sto znaci da racuna samo osnovne izraze.
 
 Kada posle operacije * ili / zelite da pomnozite ili podelite sa negativnim brojem izbacije error.
 
-Takodje kada posle operacije * ili / zelite da pomnozite ili podelite sa negativnim brojem ne moze da se stavi zagrada sto samim tim iskljucuje svaku mogucnost mnozenja ili deljenja sa negativnim brojem, jedini slucaj je kada je negativan br na prvom mestu sto znaci da ne postoji mogucnost da oba broja budu negativni.
+Takodje kada posle operacije * ili / zelite da pomnozite ili podelite sa negativnim brojem ne moze da se stavi zagrada sto
+samim tim iskljucuje svaku mogucnost mnozenja ili deljenja sa negativnim brojem, jedini slucaj je kada je negativan br na 
+prvom mestu sto znaci da ne postoji mogucnost da oba broja budu negativni.
 
+Prilikom rezultata gde je decimalni broj, broj zaokruzuje na razlicit broj decimala od slucaja do slucaja, tj kada naidje na 
+nulu on ga odmah prekida i ostaje na tom broju decimala.
+
+Trebalo bi da se definise na koliko decimala zaokruzuje.
+
+Kada se otkucaju dva broja jednaka broja i izmedju njih stavi =, tipa 9=9 izbacuje ERROR. Bilo bi dobro da izbacuje True a 
+za tvrdnje koje nisu jednake da izbacuje Fals.
